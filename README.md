@@ -78,7 +78,7 @@ This project is licensed under the terms of the MIT license. Please check [Licen
 <table>
   <tr>
     <td align="center"><a href="https://github.com/piyush1prasad"><img src="https://avatars.githubusercontent.com/u/54794049?s=64&v=4" width="75px;" alt=""/><br /><sub><b>Piyush Prasad </b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ameaza"><img src="https://avatars.githubusercontent.com/u/56881419?s=64&v=4" width="75px;" alt=""/><br /><sub><b>Ameaza Rodrigues</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ameaza"><img width="75px;" alt=""/><br /><sub><b>Ameaza Rodrigues</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/raajChit"><img src="https://avatars.githubusercontent.com/u/112723942?v=4" width="75px;" alt=""/><br /><sub><b>Raaj Chitnis</b></sub></a></td>
 </tr>
 </table>
